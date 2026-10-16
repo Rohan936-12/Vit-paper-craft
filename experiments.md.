@@ -1,0 +1,22 @@
+
+# Experiments I Would Like to Try
+
+## 1. Vision Transformer vs CNN
+
+I would compare a Vision Transformer with a CNN on the same image dataset to see how their performance differs.
+
+## 2. Effect of Training Data
+
+I would train or evaluate models using different amounts of training data to understand how data size affects their performance.
+
+## 3. Effect of Image Patches
+
+I would explore how changing the patch size affects the number of patches and the model's results.
+
+## What I Expect to Learn
+
+These experiments could help me understand the strengths and limitations of Vision Transformers and how training data and patch size affect image recognition.
+
+## Status
+
+These are proposed experiments. I have not run them yet.
